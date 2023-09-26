@@ -1,0 +1,20 @@
+#a1{
+    color:white;
+    background-color:blue;
+ padding-top:10px;
+ padding-bottom:s0px;
+ padding-left:200px;
+ border: 10px inherit black;
+ border-radius:10px;
+ margin-left:250px;
+ margin-right:300px;
+ display:inline;
+ /*first code*/
+}
+p{
+    color:green;
+}
+.a2{
+    color:blueviolet;
+    display:block;
+}
