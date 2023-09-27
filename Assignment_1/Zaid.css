@@ -1,0 +1,35 @@
+
+h1 {
+    color:blue;
+    padding-left: 350px;
+}
+marquee {
+    color: green;
+    padding-left: 470px;
+    font-size: large;
+    font: bold 20px Times New Roman;
+}
+body {
+    background-image: url(./grey\ background.jpg) ;
+}
+h3 {
+    color:purple;
+    padding-left: 570px;
+    font: bold;
+}
+#a1 {
+    color:purple;
+    background-color: blue;
+    display: inline-block;
+    margin-left: 470px;
+}
+#a2 {
+    color: purple;
+    background-color: white;
+    display: inline-block ;
+}
+#a3 {
+    color: purple;
+    background-color: burlywood;
+    display: inline-block;
+}
